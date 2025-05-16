@@ -45,7 +45,7 @@ Automated testing project for [SauceDemo](https://www.saucedemo.com/) using WebD
 | 🔢 Step | 🧪 Command             | ⚙️ What It Does                                                                 |
 |--------:|------------------------|----------------------------------------------------------------------------------|
 | 1️⃣     | `npm run wdio`         | Runs the **selected individual test file** (after uncommenting in `wdio.conf.js`). |
-| 2️⃣     | `npm run together`     | Executes **all scenarios** (`Q1`, `Q2`, and `Q3`) **in sequence**.               |
+| 2️⃣     | `npm run all`     | Executes **all scenarios** (`Q1`, `Q2`, and `Q3`) **in sequence**.               |
 | 3️⃣     | `npm run getReport`    | Generates a **detailed Allure test report** after execution.                     |
 
 
